@@ -13,8 +13,9 @@ A fun and engaging offline spy game built with **Java**. Perfect for gatherings 
 
 ## 📱 Screenshots
 <!-- Add screenshots here later if you want -->
-Coming soon...
-![PCB](PCB.png)
+
+![PCB](image1.png)
+![PCB1](image2.png)
 ## 🚀 Getting Started
 
 To run the project locally:
