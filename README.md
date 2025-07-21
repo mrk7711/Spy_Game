@@ -18,10 +18,17 @@ A fun and engaging offline spy game built with **Java**. Perfect for gatherings 
 ![PCB1](image2.png)
 ## 🚀 Getting Started
 
-To run the project locally:
+## 🛠 Tech Stack
 
-```bash
-git clone https://github.com/your-username/spy-game-flutter.git
-cd spy-game-flutter
-flutter pub get
-flutter run
+- Java
+- Android Studio
+- XML for layouts
+- Compatible with Android 11.0+
+
+- ## 📦 APK Download
+
+You can download the latest APK from the [Releases](https://github.com/your-username/your-repo/releases) section.
+
+## 🤝 Contributing
+
+Pull requests are welcome. For major changes, please open an issue first.
