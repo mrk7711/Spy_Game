@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple">#51673AB7</color>
+    <color name="arnica1">#A249A3</color>
+    <color name="arnica2">#7E72D8</color>
+    <color name="arnica3">#451e52</color>
+    <color name="arnica5">#0061ff</color>
+    <color name="arnica6">#49a37b</color>
+    <color name="arnica7">#a37b49</color>
+    <color name="arnica9">#2596BE</color>
+    <color name="arnica10">#A8A5FF</color>
+    <color name="vector">#EAEAEA</color>
+    <color name="background">#C0C0C0</color>
+    <color name="arnica4">#9B59B6  </color>
+    <color name="font">#070700</color>
+    <color name="white">#000000 </color>
+    <color name="black">#FFFFFF </color>
+    <color name="arnica8">#B9B9B9 </color>
+</resources>
