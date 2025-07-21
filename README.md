@@ -12,10 +12,11 @@ A fun and engaging offline spy game built with **Java**. Perfect for gatherings 
 - 🎨 Clean and responsive UI
 
 ## 📱 Screenshots
-<!-- Add screenshots here later if you want -->
 
 ![PCB](image1.png)
+
 ![PCB1](image2.png)
+
 ## 🚀 Getting Started
 
 ## 🛠 Tech Stack
@@ -25,10 +26,14 @@ A fun and engaging offline spy game built with **Java**. Perfect for gatherings 
 - XML for layouts
 - Compatible with Android 11.0+
 
-- ## 📦 APK Download
+## 📦 APK Download
 
 You can download the latest APK from the [Releases](https://github.com/mrk7711/Spy_Game/releases/download/v1.0.0/app-release.apk) section.
 
 ## 🤝 Contributing
 
 Pull requests are welcome. For major changes, please open an issue first.
+
+## 📄 License
+
+This project is licensed under the MIT License.
