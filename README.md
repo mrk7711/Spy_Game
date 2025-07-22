@@ -30,7 +30,7 @@ A fun and engaging offline spy game built with **Java**. Perfect for gatherings 
 
 ## 📦 APK Download
 
-You can download the latest APK from the [Releases](https://github.com/mrk7711/Spy_Game/releases/download/v1.0.0/app-release.apk) section.
+You can download the latest APK from the [Releases](https://github.com/mrk7711/Spy_Game/releases/download/v1.1.0/app-release.apk) section.
 
 ## 🤝 Contributing
 
